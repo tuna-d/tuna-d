@@ -1,19 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20!👋&reversal=false&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=80&descAlign=45&descAlignY=60)
 
-<a href="#about-me" style="text-decoration: none; color: white; display: flex; align-items: center; outline: none">
-<img width="48" height="48" src="https://res.cloudinary.com/dirdof2ca/image/upload/v1753181711/wired-gradient-680-it-developer-hover-pinch_1_xl3ryt.gif" alt="about-me-male"/>
-<h2 style="width: 100%; margin-left: 1rem">About me</h2>
-</a>
+# ![about-me](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753181711/wired-gradient-680-it-developer-hover-pinch_1_xl3ryt.gif) About me
 
 - Self-taught **Web Developer** with a passion for creating clean, functional websites.
 - Focused on frontend development and currently exploring TypeScript to level up my coding skills.
 - Always eager to learn new technologies and improve my craft.
 - Love bringing ideas to life through creative problem-solving and code.
 
-<a href="#tech-stack" style="text-decoration: none; color: white; display: flex; align-items: center; outline: none">
-<img width="48" height="48" src="https://res.cloudinary.com/dirdof2ca/image/upload/v1753180955/wired-gradient-2567-logo-stack-overflow-hover-flow_uppz6l.gif" alt="tech stack"/>
-<h2 style="width: 100%; margin-left: 1rem">Tech stack</h2>
-</a>
+# ![tech-stack](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753180955/wired-gradient-2567-logo-stack-overflow-hover-flow_uppz6l.gif) Tech stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,21 +27,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<a href="#github-stats" style="text-decoration: none; color: white; display: flex; align-items: center; outline: none">
-<img width="48" height="48" src="https://res.cloudinary.com/dirdof2ca/image/upload/v1753182979/wired-gradient-3088-bar-chart-decrease-in-reveal_uzsfhi.gif" alt="stats"/>
-<h2 style="width: 100%; margin-left: 1rem">GitHub stats</h2>
-</a>
+# ![github-stats](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753182979/wired-gradient-3088-bar-chart-decrease-in-reveal_uzsfhi.gif) GitHub stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuna-d&layout=compact&theme=cobalt)
 
-<a href="#lets-connect!" style="text-decoration: none; color: white; display: flex; align-items: center; outline: none">
-<img width="48" height="48" src="https://res.cloudinary.com/dirdof2ca/image/upload/v1753183602/wired-gradient-981-consultation-hover-conversation-alt_v4widl.gif" alt="connect"/>
-<h2 style="width: 100%; margin-left: 1rem">Let's connect!</h2>
-</a>
+# ![lets-connect!](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753183602/wired-gradient-981-consultation-hover-conversation-alt_v4widl.gif) Let's connect!
 
-<a style="outline: none" href="https://www.linkedin.com/in/tunahan-demirel-406a21337/"> 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a style="outline: none" href="mailto:tdemirel98@gmail.com"> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunahan-demirel-406a21337/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdemirel98@gmail.com)
