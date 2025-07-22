@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20!👋&reversal=false&fontAlign=50&fontAlignY=40&animation=fadeIn&fontSize=80&descAlign=45&descAlignY=60)
 
-# ![about-me](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753181711/wired-gradient-680-it-developer-hover-pinch_1_xl3ryt.gif) About me
+# ![about-me](https://res.cloudinary.com/dirdof2ca/image/upload/v1753187075/wired-gradient-680-it-developer-hover-pinch_yhzc04.gif) About me
 
 - Self-taught **Web Developer** with a passion for creating clean, functional websites.
 - Focused on frontend development and currently exploring TypeScript to level up my coding skills.
 - Always eager to learn new technologies and improve my craft.
 - Love bringing ideas to life through creative problem-solving and code.
 
-# ![tech-stack](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753180955/wired-gradient-2567-logo-stack-overflow-hover-flow_uppz6l.gif) Tech stack
+# ![tech-stack](https://res.cloudinary.com/dirdof2ca/image/upload/v1753187075/wired-gradient-2567-logo-stack-overflow-hover-flow_u1dvp2.gif) Tech stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,11 +27,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# ![github-stats](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753182979/wired-gradient-3088-bar-chart-decrease-in-reveal_uzsfhi.gif) GitHub stats
+# ![github-stats](https://res.cloudinary.com/dirdof2ca/image/upload/v1753187075/wired-gradient-3088-bar-chart-decrease-in-reveal_oskise.gif) GitHub stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuna-d&layout=compact&theme=cobalt)
 
-# ![lets-connect!](https://res.cloudinary.com/dirdof2ca/image/upload/h_48/v1753183602/wired-gradient-981-consultation-hover-conversation-alt_v4widl.gif) Let's connect!
+# ![lets-connect!](https://res.cloudinary.com/dirdof2ca/image/upload/v1753187076/wired-gradient-981-consultation-hover-conversation-alt_cll2y1.gif) Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tunahan-demirel-406a21337/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tdemirel98@gmail.com)
