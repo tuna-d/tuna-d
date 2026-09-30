@@ -34,7 +34,7 @@
 
 # ![github-stats](https://res.cloudinary.com/dirdof2ca/image/upload/v1753187075/wired-gradient-3088-bar-chart-decrease-in-reveal_oskise.gif) GitHub stats
 
-![tuna-d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuna-d&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tuna-d&layout=donut-vertical&langs_count=20&theme=react)](https://github-stats-extended.vercel.app/api/top-langs?username=tuna-d&layout=donut-vertical&langs_count=20&theme=react)
 
 # ![lets-connect!](https://res.cloudinary.com/dirdof2ca/image/upload/v1753187076/wired-gradient-981-consultation-hover-conversation-alt_cll2y1.gif) Let's connect!
 
